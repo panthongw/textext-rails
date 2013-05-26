@@ -5,8 +5,8 @@ require "textext/rails/version"
 Gem::Specification.new do |s|
   s.name        = "textext-rails"
   s.version     = Textext::Rails::VERSION
-  s.authors     = ["Jeff Pollard"]
-  s.email       = ["jeff.pollard@gmail.com"]
+  s.authors     = ["Jeff Pollard", "Pan Wangperawong"]
+  s.email       = ["jeff.pollard@gmail.com", "panthongw@gmail.com"]
   s.homepage    = ""
   s.summary     = %q{Adds the jQuery TextExt plugin to the Rails 3.1 asset pipeline}
   s.description = %q{Adds the jQuery TextExt plugin to the Rails 3.1 asset pipeline}

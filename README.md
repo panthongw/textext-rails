@@ -16,6 +16,8 @@ Then in your `app/assets/javscipts/application.js` file, include the core JS fil
 //= require textext.core
 //= require textext.plugin.tags
 ```
+Other plugins see [here](https://github.com/alexgorbatchev/jquery-textext/tree/master/src/js).
+
 
 Then, add the core CSS plus any plugins you need to your `app/assets/stylesheets/application.css.scss` file:
 
@@ -23,6 +25,7 @@ Then, add the core CSS plus any plugins you need to your `app/assets/stylesheets
 *= require textext.core
 *= require textext.plugin.tags
 ```
+Other plugin stylesheet see [here](https://github.com/alexgorbatchev/jquery-textext/tree/master/src/css).
 
 That's it!  Please see the [TextExt manual](http://textextjs.com/manual/index.html) and [Github page](https://github.com/alexgorbatchev/jquery-textext) for further usage information.
 

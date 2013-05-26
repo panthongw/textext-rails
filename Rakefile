@@ -1,7 +1,7 @@
 require "bundler/gem_tasks"
 
 DOWNLOAD_FOLDER = 'https://nodeload.github.com/alexgorbatchev/jquery-textext/tarball/'
-LATEST_VERSION = '1.2.0'
+LATEST_VERSION = '1.3.1'
 DOWNLOAD_URL = DOWNLOAD_FOLDER + LATEST_VERSION
 
 desc "Sync the files from the upstream release"
